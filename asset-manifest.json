@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parvath-store-website/static/css/main.ae42ac5f.css",
+    "main.js": "/parvath-store-website/static/js/main.3f88158d.js",
+    "index.html": "/parvath-store-website/index.html",
+    "main.ae42ac5f.css.map": "/parvath-store-website/static/css/main.ae42ac5f.css.map",
+    "main.3f88158d.js.map": "/parvath-store-website/static/js/main.3f88158d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.3f88158d.js"
+  ]
+}
